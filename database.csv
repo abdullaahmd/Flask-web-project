@@ -1,0 +1,4 @@
+name,email,subject,message
+mohamed abdullah,Test5@gmail.com,testing flask,write_to_csv
+mohamed abdullah,Test5@gmail.com,testing flask,"csv_write.writerow([data['name'], data['email'], data['text'], data['message']])"
+mohamed abdullah,Test5@gmail.com,testing flask,testing flask
